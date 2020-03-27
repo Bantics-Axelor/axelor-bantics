@@ -1,0 +1,15 @@
+apply plugin: "com.axelor.app-module"
+
+apply from: "../version.gradle"
+
+apply {
+	version = banticsAxelorVersion
+}
+
+axelor {
+	title "Axelor: Bantics Base"
+	description "Modulo Bantics Base"
+}
+
+dependencies {
+}

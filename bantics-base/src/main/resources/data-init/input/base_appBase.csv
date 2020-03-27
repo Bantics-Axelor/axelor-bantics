@@ -1,0 +1,2 @@
+"name";"code";"installOrder";"description";"initDataLoaded";"active";"imagePath";"modules";"importId";"currencyWsURL";"sequence";"passwordChangedTemplate.name"
+"Init-Bantics";"base";20;"Bantics Configuracion Inicial";"false";"false";"app-base.png";"axelor-exception,axelor-tools,axelor-message,axelor-admin,axelor-base";1;"";1;"Changed password"
